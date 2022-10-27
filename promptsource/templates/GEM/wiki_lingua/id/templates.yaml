@@ -4,7 +4,7 @@ templates:
   34797c73-2344-44df-adda-544084854d82: !Template
     answer_choices: null
     id: 34797c73-2344-44df-adda-544084854d82
-    jinja: 'Artikel dalam bahasa Indonesia: {{source}}
+    jinja: 'aArtikel dalam bahasa Indonesia: {{source}}
 
 
       Rangkuman dalam bahasa Indonesia: ||| {{target}}'
